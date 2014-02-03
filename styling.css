@@ -4,7 +4,7 @@ body {
 	color: grey;
 }
 
-ul, h1, h2, h3, h4, p {
+ul, h1, h2, h3, h4, p, a, img {
     margin-left: 25%;
     margin-right: 25%;
 }
